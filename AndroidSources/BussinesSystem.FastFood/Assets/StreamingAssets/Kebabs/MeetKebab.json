@@ -1,0 +1,11 @@
+{
+	"Image"   : "MeatKebab.jpg",
+	"NameTJK" : "Кебаби-Гушти",
+	"NameRUS" : "Мясной-Кебаб",
+	"NameENG" : "Meat-Kebab",
+	"ContentTJK" : "Гушт, Картошка, Пиез, Сабзи",
+	"ContentRUS" : "Мясо, Картошка, Лук, Марковка",
+	"ContentENG" : "Meat, Potato, Onion, Carrot",
+	"Time" : 20,
+	"Cost" : 90
+}

@@ -1,0 +1,59 @@
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\BusinessSystem.FastFood.Managment.exe.config
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\BusinessSystem.FastFood.Managment.exe
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\BusinessSystem.FastFood.Managment.pdb
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.Main.resources
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.Properties.Resources.resources
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.exe
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.pdb
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\CsvHelper.dll
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\CsvHelper.xml
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\BusinessSystem.FastFood.Managment.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\BusinessSystem.FastFood.Managment.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\BusinessSystem.FastFood.Managment.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\CsvHelper.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.Main.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.SettingsWindow.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.SettingsWindow.resources
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.TableSettings.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.TableSettings.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.OrdersTypeInMenu.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.OrdersNameInMenu.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.OrdersDescription.resources
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.OrdersNameInMenu.resources
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.OrdersDescription.resources
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.OrdersTypeInMenu.resources
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.ExpensesData.resources
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.DataPickerDialog.resources
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.SalesData.resources
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.ReportData.resources
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Desktop\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.MenuList.resources
+D:\Unity\Projects\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\bin\Debug\BusinessSystem.FastFood.Managment.exe.config
+D:\Unity\Projects\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.exe
+D:\Unity\Projects\BusinessSystem\FastFood\WindowsSources\BusinessSystem.FastFood.Managment\BusinessSystem.FastFood.Managment\obj\Debug\BusinessSystem.FastFood.Managment.pdb

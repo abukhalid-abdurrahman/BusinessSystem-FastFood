@@ -1,0 +1,11 @@
+{
+	"Image"   : "ChikenKebab.jpg",
+	"NameTJK" : "Кебаби-Мурги",
+	"NameRUS" : "Куриный-Кебаб",
+	"NameENG" : "Chiken-Kebab",
+	"ContentTJK" : "Гушти Мург, Картошка, Пиез",
+	"ContentRUS" : "Мясо Куринное, Картошка, Лук",
+	"ContentENG" : "Chicken Meat, Potato, Onion",
+	"Time" : 35,
+	"Cost" : 60
+}

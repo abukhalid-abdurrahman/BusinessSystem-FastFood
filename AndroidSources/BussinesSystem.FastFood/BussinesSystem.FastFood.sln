@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{45A04605-4813-E522-8C5D-2E4A188C3445}") = "BussinesSystem.FastFood", "Assembly-CSharp.csproj", "{22918A3A-F350-6DCD-278C-E58CCA2439FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22918A3A-F350-6DCD-278C-E58CCA2439FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22918A3A-F350-6DCD-278C-E58CCA2439FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22918A3A-F350-6DCD-278C-E58CCA2439FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22918A3A-F350-6DCD-278C-E58CCA2439FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
